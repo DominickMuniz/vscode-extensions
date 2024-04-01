@@ -1,12 +1,8 @@
-# vscode-extensions
-
-
-
-# VS Code Extensions (fun and good ones)
+# VS Code Extensions 
 
 
   
-### Fun
+## Fun
 vscode-pets  
 
 
